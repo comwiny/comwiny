@@ -11,12 +11,11 @@
 ###
 
 <div align="left">
-<!-- Skill Icons with Proper Padding and Display Support -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" style="margin-right:10px;" height="24"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL logo" style="margin-right:10px;" height="24"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server logo" style="margin-right:10px;" height="24"/>
-<img src="https://raw.githubusercontent.com/jesperorb/power-bi-logo/main/power-bi-logo.svg" alt="Power BI logo" style="margin-right:10px;" height="24"/>
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/excel.svg" alt="Excel logo" style="margin-right:10px;" height="24"/>
+<!-- Skill Icons with Right Padding -->
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel logo" style="margin-right:10px;" height="24"/>
+<img src="https://img.icons8.com/fluency/48/power-bi.png" alt="Power BI logo" style="margin-right:10px;" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" style="margin-right:10px;" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL logo" style="margin-right:10px;" height="24"/>
 </div>
 
 ###
