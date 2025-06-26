@@ -11,11 +11,12 @@
 ###
 
 <div align="left">
-<!-- Skill Icons with Right Padding -->
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel logo" style="margin-right:10px;" height="24"/>
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI logo" style="margin-right:10px;" height="24"/>
+<!-- Skill Icons with Right Padding and Updated Power BI Icon -->
+<img src="https://img.icons8.com/?size=48&id=7gdY5qNXaKC0&format=png" alt="Excel logo" style="margin-right:10px;" height="24"/>
+<img src="https://img.icons8.com/?size=48&id=H0Yt6B2iHBsu&format=png" alt="Power BI logo" style="margin-right:10px;" height="24"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" style="margin-right:10px;" height="24"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL logo" style="margin-right:10px;" height="24"/>
+
 
 </div>
 
