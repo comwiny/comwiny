@@ -13,7 +13,7 @@
 <div align="left">
 <!-- Skill Icons with Right Padding -->
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel logo" style="margin-right:10px;" height="24"/>
-<img src="https://img.icons8.com/fluency/48/power-bi.png" alt="Power BI logo" style="margin-right:10px;" height="24"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/Desktop/PNG/Power-BI.png" alt="Power BI logo" style="margin-right:10px;" height="24"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" style="margin-right:10px;" height="24"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL logo" style="margin-right:10px;" height="24"/>
 </div>
