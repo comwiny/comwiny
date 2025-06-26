@@ -11,8 +11,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/img.icons8.com/?size=100&id=L0druJv03YVW&format=png&color=000000
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
+  <img src=" https://img.icons8.com/?size=100&id=117561&format=png&color=000000" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
