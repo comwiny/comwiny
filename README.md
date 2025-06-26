@@ -36,11 +36,11 @@ I am enthusiastic about learning, growing, and applying my skills to solve real-
 
 <p align="left"><strong>Contact Me</strong></p>
 
-<div align="left">
-<!-- Skill Icons with Right Padding -->
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel logo" style="margin-right:10px;" height="24"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI logo" style="margin-right:10px;" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" style="margin-right:10px;" height="24"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL logo" style="margin-right:10px;" height="24"/>
+<div align="left" style="margin-top:10px;">
+  <a href="https://www.linkedin.com/in/comfort-dauda-783732243" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:comfortdauda100@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
 </div>
-
