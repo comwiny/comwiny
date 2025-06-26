@@ -30,6 +30,7 @@ I am enthusiastic about learning, growing, and applying my skills to solve real-
 <div align="left" style="margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" style="margin-right:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel logo" height="40" style="margin-right:15px;" />
 </div>
 
 ---
